@@ -1,18 +1,15 @@
-                          Fresh Tomatoes Movie Trailers
-
-What is it:
+# Fresh Tomatoes Movie Trailers
 Fresh Tomatoes Movie Trailers is a website that contains movies with their
 posters and trailers.
 
-Requirements:
+## Requirements:
 To run this website, you must have the following:
 1. A web browser, preferably Chrome or Firefox.
 2. A python IDE, preferably Idle 2.7
 3. Python 2.7 must be installed on your system.
 
-Contents:
-There are three files included with their respective purposes -
-
+## Contents:
+There are three files included with their respective purposes:
 1. media.py
    This file contains the python data structure that's used to create various
    instances of the movie objects.
@@ -26,7 +23,7 @@ There are three files included with their respective purposes -
    will take in the list of movies and generate an HTML file including this
    content, producing a website to showcase the movies.
 
-Licensing and Copyright Infringement:
+## Licensing and Copyright Infringement:
 The movie information for this website was made using TMDB's API.
 Their primary documentation is located at developers.themoviedb.org.
 
@@ -35,12 +32,12 @@ The API Key: e400eed6be0d79125ca4eef688fe671d
 This API Key is registered to the account, intley and can only be used by the
 sole owner and non-commercial purposes.
 
-How to run:
+## How to run:
 To run this website, run the module of entertainment_center.py using Idle2,
 or any other python IDE and your browser will open up with the movie trailer
 website
 Note - The website may take about 15 seconds to load, due to extended time
 taken to retrieve the movie details using API.
 
-Contact:
+## Contact:
 For any further information, feel free to contact intley@gmail.com.
